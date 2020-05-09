@@ -1,12 +1,12 @@
 # Weather App
-<br>_This app is used to find out the live weather data in the current location of the device as well as the weather for any city one can think of!<br><br>_
+<br>_This app is used to find out the live weather data in the current location of the device as well as the weather for any city one can think of!<br><br>All the data is obtained from the openweathermap.org/api.<br><br>_
 Download the app from [here](https://drive.google.com/file/d/1ACBmDFBAQIKn7gh_pAsPHCFYOupwXQRk/view?usp=sharing).
 
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
 ## Screenshots
-<img src="https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/images/readme/currentWeather.jpg" width="210">|
 <img src="https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/images/readme/cityWeather.jpg" width="210">|
+<img src="https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/images/readme/currentWeather.jpg" width="210">|
 <img src="https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/images/readme/drawer.jpg" width="210">|
 <img src="https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/images/readme/dev.jpg" width="210">
 

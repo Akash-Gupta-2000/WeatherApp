@@ -1,6 +1,6 @@
 # Weather App
 <br>_This app is used to find out the live weather data in the current location of the device as well as the weather for any city one can think of!<br><br>All the data is obtained from the openweathermap.org/api.<br><br>_
-Download the app from [here](https://drive.google.com/file/d/1wUQriPPy3vFJFCcYRfsxiRZtAaUKZP--/view?usp=sharing).
+Download the app from [here](https://github.com/Akash-Gupta-2000/WeatherApp/blob/master/builds/app/outputs/apk/release/weather.apk).
 
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>

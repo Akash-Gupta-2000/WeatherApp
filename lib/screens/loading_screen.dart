@@ -15,6 +15,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
   @override
   void initState() {
     super.initState();
+    print("Initilaised");
     getLocationData();
   }
 
@@ -33,7 +34,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
       body: Center(
           child: SpinKitFadingCircle(
         color: Colors.white,
-        size: 70,
+        size: 75,
       )),
     );
   }

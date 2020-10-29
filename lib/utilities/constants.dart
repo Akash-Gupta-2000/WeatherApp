@@ -9,9 +9,17 @@ const kMessageTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
   fontSize: 40.0,
 );
+const kChatTextStyle = TextStyle(
+  fontFamily: 'Spartan MB',
+  fontSize: 40.0,
+);
 
 const kButtonTextStyle = TextStyle(
   fontSize: 30.0,
+  fontFamily: 'Spartan MB',
+);
+const kNewButtonTextStyle = TextStyle(
+  fontSize: 35.0,
   fontFamily: 'Spartan MB',
 );
 
